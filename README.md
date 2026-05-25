@@ -1,8 +1,22 @@
 # Spektrum
-audioreactive aniamtions, with many settings and Open Stage Control Server hosting
+Spektrum is a audioreactive animation tool which uses the Open Stage Control webserver features to send the animations to other devices.
+It analizes the mikrophone input and sends midi data at range [ch4c20 ch4c27] \
+Open Stage Version used: 1.30.3
+
 
 ### Guide
+To use this project, you need to install TouchDesigner and Open Stage Control. Both are free (TouchDesigner is free for non-commercial use). Also you need a virtual midi port emulator (I recomend loopMIDI). Here you can download them: \
+https://derivative.ca/download  \
+https://openstagecontrol.ammd.net/download/ \
+https://www.tobias-erichsen.de/software/loopmidi.html
 
+Define 2 midi-ports in the midi port emulator software you have chosen. Name them as you want.\
+
+Open Touchdesiner and open the Spektrum file.
+Then start OpenStageControl, then select the controller from your files. Type "OSC:[midiport1name],[midiport2name]" in the MIDI-frame. *([midiport1name] is output, [midiport2name] is input for the DAW)*\
+Launch the server.\
+
+You also can use your phone, tablet or any other computer with internet access. Just type in the URL shown in OpenStageControl or scan the QR-Code.
 
 ### Walktrough
 #### Touchdesigner Interface
