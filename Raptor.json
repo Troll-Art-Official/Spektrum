@@ -1,5 +1,6 @@
 {
   "createdWith": "Open Stage Control",
+  "license": "OSC Controler A1, Copyright (C) 2026 Tobias Rößler.\nThis program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.\n\nADDITIONAL TERMS under section 7 of the GNU GPLv3: This license does not grant permission to use the trade names, trademarks, service marks, or product names of the licensor ('TRoll','OSC Controller S-Series'), except as required for reasonable and customary use in describing the origin of the code.\n\nThis program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.\n\nSee the GNU General Public License for more details.\nYou should have received a copy of the GNU General Public License along with this program.\nIf not, see <https://www.gnu.org/licenses/>.",
   "version": "1.30.3",
   "type": "session",
   "content": {
