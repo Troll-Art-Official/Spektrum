@@ -20,9 +20,9 @@ You also can use your phone, tablet or any other computer with internet access. 
 
 ### Walktrough
 #### Touchdesigner Interface
-When opened the Spektrum file via touchdesigner, you should set the clip range to a range that fits your usecase. Select the limit1 operater and change the minimum value:
+When opened the Spektrum file via touchdesigner, you should set the clip range to a range that fits your usecase. Select the limit1 operator and change the minimum value:
 <img width="2880" height="1778" alt="Screenshot 2026-05-25 225253" src="https://github.com/user-attachments/assets/efbbe0f7-423b-4002-ae4b-3b5510000aba" />
-For even more control, you can edit the lag1 operater. Higher lag-values flatten the animation while low values make it more reactive. You can also unlink the operater for even higher reactiveness:
+For even more control, you can edit the lag1 operator. Higher lag-values flatten the animation while low values make it more reactive. You can also unlink the operator for even higher reactiveness:
 <img width="2879" height="1776" alt="Screenshot 2026-05-25 225339" src="https://github.com/user-attachments/assets/a9a7b3ea-f89e-4c7e-8053-753fc3b76734" />
 
 #### Open Stage Control Interface
